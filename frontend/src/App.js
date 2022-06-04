@@ -1,8 +1,8 @@
 
 function App() {
   return (
-    <div className="App">
-     Cloud Management
+    <div>
+      <p className='text-4xl text-center'>Cloud Management</p>
     </div>
   );
 }
