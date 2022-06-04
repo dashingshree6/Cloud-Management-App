@@ -9,7 +9,6 @@ import Support from './components/Support';
 function App() {
   return (
     <div>
-      <p className='text-4xl text-center'>Cloud Management</p>
       <Navbar/>
       <Hero/>
       <About/>
